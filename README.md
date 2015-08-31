@@ -1527,7 +1527,7 @@ iscroll的闪动问题也与渲染有关系，可以参考
 参考：
 * <http://www.css88.com/archives/5689>
 
-### JS中 "====" && "====="检测表
+### JS中 "==" && "==="检测表
 参考：
 * <http://www.css88.com/archives/5618>
 
