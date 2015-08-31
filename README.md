@@ -1488,3 +1488,31 @@ iscroll的闪动问题也与渲染有关系，可以参考
 	    var fields       = ["displayName", "name","phoneNumbers"];
 	    navigator.contacts.find(fields, onSuccess, onError,options);  
 	    }
+
+###自定义滚动条
+
+有没有觉得浏览器自带的原始滚动条很不美观，同时也有看到很多网站的自定义滚动条显得高端，就连chrome32.0开发板都抛弃了原始的滚动条，美观多了。那webkit浏览器是如何自定义滚动条的呢？
+参考：
+* <http://www.xuanfengge.com/css3-webkit-scrollbar.html>
+* <http://www.zhaoan.org/849.html>
+
+>后记：有时候，我们开发H5页面时为了美观，可能会隐藏滚动条，那么此时只要使用如下CSS代码即可实现
+
+	::-webkit-scrollbar {
+		width: 0;
+		height: 0;
+	}
+
+###CSS3动画
+参考：
+* <http://webteam.tencent.com/css3/index.html>
+* <https://daneden.github.io/animate.css/>
+
+###JS迷你库集（极小、既简的JS库集）
+参考：
+* <http://microjs.com/#>
+
+###Promise学习
+参考：
+* JavaScript Promise迷你书：<http://liubin.github.io/promises-book/>
+* Promises/A+规范：<https://promisesaplus.com/>
