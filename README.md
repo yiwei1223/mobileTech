@@ -1516,3 +1516,19 @@ iscroll的闪动问题也与渲染有关系，可以参考
 参考：
 * JavaScript Promise迷你书：<http://liubin.github.io/promises-book/>
 * Promises/A+规范：<https://promisesaplus.com/>
+
+###自定义表单元素
+参考：
+* <http://www.css88.com/archives/5693>
+*  <http://www.cnblogs.com/peunzhang/p/3522603.html>
+*  <http://www.css88.com/archives/5677>
+
+### placeholder样式设置
+参考：
+* <http://www.css88.com/archives/5689>
+
+### JS中 "====" && "====="检测表
+参考：
+* <http://www.css88.com/archives/5618>
+
+
