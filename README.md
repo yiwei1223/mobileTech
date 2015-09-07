@@ -1531,4 +1531,16 @@ iscroll的闪动问题也与渲染有关系，可以参考
 参考：
 * <http://www.css88.com/archives/5618>
 
+### CSS vertical-align的深入理解
+参考：
+* <http://www.zhangxinxu.com/wordpress/2010/05/我对css-vertical-align的一些理解与认识（一）/>
+* <http://www.zhangxinxu.com/wordpress/2010/06/css-vertical-align的深入理解（二）之text-top篇/>
+* <http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/>
 
+###理解CSS3 transform中的Matrix(矩阵)
+参考：
+* <http://www.zhangxinxu.com/wordpress/2012/06/css3-transform-matrix-矩阵/>
+
+###jQuery.ready()的工作原理
+参考：
+* <http://www.cnblogs.com/haogj/archive/2013/01/15/2861950.html>
